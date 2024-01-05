@@ -1,0 +1,15 @@
+/Users/karinaaleksandrovic/Desktop/Csharp/Sem1/bin/Debug/net8.0/Sem1
+/Users/karinaaleksandrovic/Desktop/Csharp/Sem1/bin/Debug/net8.0/Sem1.deps.json
+/Users/karinaaleksandrovic/Desktop/Csharp/Sem1/bin/Debug/net8.0/Sem1.runtimeconfig.json
+/Users/karinaaleksandrovic/Desktop/Csharp/Sem1/bin/Debug/net8.0/Sem1.dll
+/Users/karinaaleksandrovic/Desktop/Csharp/Sem1/bin/Debug/net8.0/Sem1.pdb
+/Users/karinaaleksandrovic/Desktop/Csharp/Sem1/obj/Debug/net8.0/Sem1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/karinaaleksandrovic/Desktop/Csharp/Sem1/obj/Debug/net8.0/Sem1.AssemblyInfoInputs.cache
+/Users/karinaaleksandrovic/Desktop/Csharp/Sem1/obj/Debug/net8.0/Sem1.AssemblyInfo.cs
+/Users/karinaaleksandrovic/Desktop/Csharp/Sem1/obj/Debug/net8.0/Sem1.csproj.CoreCompileInputs.cache
+/Users/karinaaleksandrovic/Desktop/Csharp/Sem1/obj/Debug/net8.0/Sem1.sourcelink.json
+/Users/karinaaleksandrovic/Desktop/Csharp/Sem1/obj/Debug/net8.0/Sem1.dll
+/Users/karinaaleksandrovic/Desktop/Csharp/Sem1/obj/Debug/net8.0/refint/Sem1.dll
+/Users/karinaaleksandrovic/Desktop/Csharp/Sem1/obj/Debug/net8.0/Sem1.pdb
+/Users/karinaaleksandrovic/Desktop/Csharp/Sem1/obj/Debug/net8.0/Sem1.genruntimeconfig.cache
+/Users/karinaaleksandrovic/Desktop/Csharp/Sem1/obj/Debug/net8.0/ref/Sem1.dll
